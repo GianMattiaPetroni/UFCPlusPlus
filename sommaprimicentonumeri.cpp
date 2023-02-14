@@ -7,6 +7,6 @@ int main()
     {
         somma += 1;
      }
-    cout << "La somma dei primi 100 numeri interi è: " << somma << "/n";
+    cout << "La somma dei primi 100 numeri interi è: " << somma << "\n";
     return 0;
 }
