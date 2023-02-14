@@ -1,2 +1,5 @@
-tabellina7
-numeriparifinoa20
+
+
+.vscode/*
+!.vscode/setting.json
+.DS_store
