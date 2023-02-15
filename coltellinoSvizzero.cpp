@@ -238,3 +238,4 @@ void stampaPari(int quanti)
         }
     }
 }
+int main () {}
