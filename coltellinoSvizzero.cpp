@@ -71,7 +71,7 @@ void buttaFuori(int eta)
 }
 
 // ti stampa i valori in ordine decrescente
-// input: int a,b,i
+// input: int a,b,c
 // output: valori in ordine decrescente
 
 void descrescente(int a, int b)
