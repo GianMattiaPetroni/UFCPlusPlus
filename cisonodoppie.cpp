@@ -22,5 +22,5 @@ bool ciSonoDoppie(string parola)
 }
 int main()
 {
-   
+   cout<< ciSonoDoppie ();
 }

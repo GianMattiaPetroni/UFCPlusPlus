@@ -1,10 +1,15 @@
-#include <iostream> //incompleto da rivedere con calma prendendo spunto daòò'esercizio stampanome precdente
+#include <iostream> 
 #include <string>
-void stampaNomeCognome(string stampanomecognome)
+using namespace std;
+
+int main()
 {
-    string nomecognome = "";
-    int lunghezza = nomecognome.lenght() ; riga += "+-------";
-    for (int i = 0; i <= lunghezza; i++)
-    {
-        nomecognome += "-";
-    } }
+    string nome;
+    string cognome;
+    cout<< "qual'è il tuo nome?"<< "\n";
+    cin>> nome;
+    cout<< "qual'è il tuo cognome?" <<"\n";
+    cin>> cognome;
+    cout<< "ciao "<< nome <<" "<< cognome; 
+    return 0;
+}
